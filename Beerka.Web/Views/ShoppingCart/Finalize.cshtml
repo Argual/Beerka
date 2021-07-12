@@ -1,0 +1,98 @@
+﻿@model FinalizationViewModel
+
+<div class="text-center">
+    <h1>Finalize Order</h1>
+</div>
+
+@{
+    ViewData["Title"] = "Finalize Order";
+}
+
+<form asp-controller="ShoppingCart" asp-action="Finalize">
+
+    <div asp-validation-summary="ModelOnly" class="failureNotification"></div>
+
+    <table>
+        <tbody>
+            <tr>
+                <td style="padding:10px">
+                    Name:
+                </td>
+                <td>
+                    <input asp-for="NameRawInput" value="@Model.Name" />
+                    <span asp-validation-for="NameRawInput"></span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    E-mail:
+                </td>
+                <td>
+                    <input asp-for="EmailRawInput" value="@Model.Email" />
+                    <span asp-validation-for="EmailRawInput"></span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    Phone Number:
+                </td>
+                <td>
+                    <input asp-for="PhoneRawInput" value="@Model.Phone" />
+                    <span asp-validation-for="PhoneRawInput"></span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    Zip Code:
+                </td>
+                <td>
+                    <input asp-for="ZipCode" value="@Model.ZipCode" />
+                    <span asp-validation-for="ZipCode"></span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    City:
+                </td>
+                <td>
+                    <input asp-for="CityRawInput" value="@Model.City" />
+                    <span asp-validation-for="CityRawInput"></span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    Public Space:
+                </td>
+                <td>
+                    <input asp-for="PublicSpaceNameRawInput" value="@Model.PublicSpaceName" />
+                    <span asp-validation-for="PublicSpaceNameRawInput"></span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:10px">
+                    House Number:
+                </td>
+                <td>
+                    <input asp-for="HouseNumberRawInput" value="@Model.HouseNumber" />
+                    <span asp-validation-for="HouseNumberRawInput"></span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table align="center">
+        <tbody>
+            <tr>
+                <td style="padding:10px">
+                    <input type="submit" value="Finalize Order" class="button" />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</form>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
