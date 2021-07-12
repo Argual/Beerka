@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BqYy6B8o4N1KPv2OsZGLJnFOM4zJ+FA269Obu3FCtBIcAgMsWRAR5ucil2pisjF5x6AqyH3GeHDhm+iIV8TqrQ==",
+  "dgSpecHash": "DzLiruAkeu/I9qRWGnMA0qlpMUtSqzwku3ptzhxmLsxw0BDVkQj/yQq9xI9SliSkLnPwQJY9kShsW/UEGrhNtg==",
   "success": true,
-  "projectFilePath": "D:\\ASPNET\\Beerka\\Beerka.Desktop\\Beerka.Desktop.csproj",
+  "projectFilePath": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Desktop\\Beerka.Desktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geris\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\geris\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",

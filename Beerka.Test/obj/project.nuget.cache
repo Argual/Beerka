@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHepyU5jo3w2WvV7B0NyEVsf5DLYGTInimWR4wA3kc9V9wivt3r6ktkVLAmlGyYVO1P3Xu2bYra7edOwanVERA==",
+  "dgSpecHash": "NxWKwhVKvxac/49sMfAD022D1YxFkOU7jSorQjGhZSzIEVARzGqa+Sw56gfI0QLyTLk2uEYKliJchcyOc7K9pg==",
   "success": true,
-  "projectFilePath": "D:\\ASPNET\\Beerka\\Beerka.Test\\Beerka.Test.csproj",
+  "projectFilePath": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Test\\Beerka.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geris\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\geris\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXBxRH3JbhcRSYQgp5ibE1gzpvgZd9U9twW8pzs5dOrGGITtSJ0QRWACGpMUcLe/LWfFEPn6aXSIdUg3FtAWRg==",
+  "dgSpecHash": "7q0ibkfSLBr2AEHEb/iD0gBldkuiPip4VsCGwCqfm5MEVbc1dn6qLBvmdkvWbezvs2u/G9FUbsRsDtfL/OXTyw==",
   "success": true,
-  "projectFilePath": "D:\\ASPNET\\Beerka\\Beerka.Web\\Beerka.Web.csproj",
+  "projectFilePath": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Web\\Beerka.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geris\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\geris\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RR0g1j8AKd3eixeaDGa1B4IonZgOcQm5sfFUtXetzPXfUayG3mql5iiLpy8emCIUsscNW4btb/jCQNegrlL8Rw==",
+  "dgSpecHash": "0t0UfeLMDRjkm3gGSuHZ3sAygvfkwpt+q6apGGevrypdJkQftu1eb+liCkWBaK1EUEa2tWrCD1gfjryNybqVEg==",
   "success": true,
-  "projectFilePath": "D:\\ASPNET\\Beerka\\Beerka.Persistence\\Beerka.Persistence.csproj",
+  "projectFilePath": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Persistence\\Beerka.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geris\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
     "C:\\Users\\geris\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.0\\microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",

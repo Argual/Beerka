@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rFu4VLWSJZaksyvPbZS2u/YspCWDzr2WFeyb7iG9hIYNz8PW19wlM33ZBavctCuAljOV8Sa4pFgAy8L7rH4OIg==",
+  "dgSpecHash": "vOzYvYyTTAg38Wo9YKvSIRjQQLneOgL5f6Uz/fhnez5yFR8BkBNITUsJtf4dzttZ7OfZFMx/g9ush2gFeMz6aQ==",
   "success": true,
-  "projectFilePath": "D:\\ASPNET\\Beerka\\Beerka.WebAPI\\Beerka.WebAPI.csproj",
+  "projectFilePath": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.WebAPI\\Beerka.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geris\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
     "C:\\Users\\geris\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.0\\microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",

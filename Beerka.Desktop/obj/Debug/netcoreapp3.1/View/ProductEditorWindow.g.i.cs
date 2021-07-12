@@ -58,7 +58,7 @@ namespace Beerka.Desktop.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Beerka.Desktop;component/view/producteditorwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Beerka.Desktop;V1.0.0.0;component/view/producteditorwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\ProductEditorWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

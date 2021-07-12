@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\ASPNET\Beerka\Beerka.Desktop\obj\Debug\netcoreapp3.1\
+D:\LocalRepos\DotNET\Beerka\Beerka\Beerka.Desktop\obj\Debug\netcoreapp3.1\
 Beerka.Desktop
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-D:\ASPNET\Beerka\Beerka.Desktop\App.xaml
+D:\LocalRepos\DotNET\Beerka\Beerka\Beerka.Desktop\App.xaml
 3584910216
 
 17960308186
-223-574080763
+223736485058
 View\LoginWindow.xaml;View\MainWindow.xaml;View\ProductEditorWindow.xaml;
 
-True
+False
 

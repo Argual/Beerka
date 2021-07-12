@@ -9144,11 +9144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASPNET\\Beerka\\Beerka.Web\\Beerka.Web.csproj",
+      "projectUniqueName": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Web\\Beerka.Web.csproj",
       "projectName": "Beerka.Web",
-      "projectPath": "D:\\ASPNET\\Beerka\\Beerka.Web\\Beerka.Web.csproj",
+      "projectPath": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Web\\Beerka.Web.csproj",
       "packagesPath": "C:\\Users\\geris\\.nuget\\packages\\",
-      "outputPath": "D:\\ASPNET\\Beerka\\Beerka.Web\\obj\\",
+      "outputPath": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\geris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9165,8 +9165,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\ASPNET\\Beerka\\Beerka.Persistence\\Beerka.Persistence.csproj": {
-              "projectPath": "D:\\ASPNET\\Beerka\\Beerka.Persistence\\Beerka.Persistence.csproj"
+            "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Persistence\\Beerka.Persistence.csproj": {
+              "projectPath": "D:\\LocalRepos\\DotNET\\Beerka\\Beerka\\Beerka.Persistence\\Beerka.Persistence.csproj"
             }
           }
         }
