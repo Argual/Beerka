@@ -1,9 +1,0 @@
-D:\ASPNET\Beerka\Beerka.Persistence\bin\Debug\netstandard2.1\Beerka.Persistence.deps.json
-D:\ASPNET\Beerka\Beerka.Persistence\bin\Debug\netstandard2.1\Beerka.Persistence.dll
-D:\ASPNET\Beerka\Beerka.Persistence\bin\Debug\netstandard2.1\Beerka.Persistence.pdb
-D:\ASPNET\Beerka\Beerka.Persistence\obj\Debug\netstandard2.1\Beerka.Persistence.csproj.AssemblyReference.cache
-D:\ASPNET\Beerka\Beerka.Persistence\obj\Debug\netstandard2.1\Beerka.Persistence.AssemblyInfoInputs.cache
-D:\ASPNET\Beerka\Beerka.Persistence\obj\Debug\netstandard2.1\Beerka.Persistence.AssemblyInfo.cs
-D:\ASPNET\Beerka\Beerka.Persistence\obj\Debug\netstandard2.1\Beerka.Persistence.csproj.CoreCompileInputs.cache
-D:\ASPNET\Beerka\Beerka.Persistence\obj\Debug\netstandard2.1\Beerka.Persistence.dll
-D:\ASPNET\Beerka\Beerka.Persistence\obj\Debug\netstandard2.1\Beerka.Persistence.pdb
