@@ -9,4 +9,6 @@ Note:
 The main purpose of the assignment was to implement the expected functionality.
 There was no emphasis on looks, hence the basic look of the web and desktop applications.
 
+Testing:
 A valid username/password combination for the desktop application is 'test'/'test' (without the single quotes).
+To check the paging/listing functionality, select the 'Beers' page, as that page has a lot of (generated) entries in the default database.
