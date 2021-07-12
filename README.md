@@ -8,3 +8,5 @@ When trying out, do not forget to set the connection string in the 'appsettings.
 Note:
 The main purpose of the assignment was to implement the expected functionality.
 There was no emphasis on looks, hence the basic look of the web and desktop applications.
+
+A valid username/password combination for the desktop application is 'test'/'test' (without the single quotes).
