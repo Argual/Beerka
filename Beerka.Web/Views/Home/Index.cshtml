@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Beerka.Persistence.MainCategory>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Beerka Wholesale</h1>
+    <p>You can browse our available wares by clicking on the categories that interest you.</p>
+
+    <table class="table">
+        <tbody>
+            @foreach (var mainCategory in Model)
+            {
+                <tr>
+                    <td>
+                        <div class="text-center">
+                            <h2>@Html.DisplayFor(modelItem => mainCategory.Name)</h2>
+                            @foreach (var subCategory in mainCategory.SubCategories)
+                            {
+                                <div class="text-center">
+                                    <a asp-action="GetSubCategoryProducts" asp-route-id="@subCategory.ID" >@Html.DisplayFor(m => subCategory.Name)</a>
+                                </div>
+                            }
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
